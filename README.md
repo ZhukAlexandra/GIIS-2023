@@ -7,7 +7,7 @@
 |3 |Астапчик Евгений|[akayohonda](https://github.com/akayohonda)|200095|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||
 |4 |Селезнев Никита|[prophetam119](https://github.com/prophetam119)|||||||||||||
 |5 |Галанин Сергей|[SergeyGalanin](https://github.com/SergeyGalanin)|200100|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||
-|6 |Жук Александра|[ZhukAlexandra](https://github.com/ZhukAlexandra)|200105|:white_check_mark:|:white_check_mark:|:white_check_mark:||||||||
+|6 |Жук Александра|[ZhukAlexandra](https://github.com/ZhukAlexandra)|200105|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||
 |7 |Ковалец Вячеслав|[slavenia](https://github.com/slavenia)|200106|:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||
 |8 |Яковчик Денис|[ElGansoDorado](https://github.com/ElGansoDorado)|200115|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||
 |9 |Ковашевич Никита|[Gigantrusskoymisli](https://github.com/gigantrusskoymisli)||||||||||||
